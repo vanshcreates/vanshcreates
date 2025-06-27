@@ -5,3 +5,5 @@
 🚀 Love building websites  
 📚 Focused on DSA, development & real-world projects  
 📫 Email: vanshgupta.dev@gmail.com
+🌐 **Live Projects:**
+- [Netflix Landing Page Clone](https://vanshcreates.github.io/html-css-practice/)
