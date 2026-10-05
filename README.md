@@ -18,16 +18,7 @@
 <br/>
 
 ## 👤 Who I Am
-'''
-interface Developer {
-  title: string;
-  stack: string[];
-  launchedProjects: string[];
-  certifications: string[];
-  status: string;
-  openTo: string[];
-}
-
+```
 const vanshcreates: Developer = {
   title: "Frontend Developer",
   stack: ["HTML", "CSS", "JavaScript", "React", "C++"],
@@ -36,7 +27,7 @@ const vanshcreates: Developer = {
   status: "Learning & building",
   openTo: [],
 };
-'''
+```
 <br/>
 
 ## 🛠️ Tech Stack
