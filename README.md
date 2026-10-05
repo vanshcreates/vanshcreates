@@ -22,10 +22,10 @@
 const vanshcreates: Developer = {
   title: "Frontend Developer",
   stack: ["HTML", "CSS", "JavaScript", "React", "C++"],
-  launchedProjects: [],
-  certifications: [],
+  launchedProjects: [1],
+  certifications: [2],
   status: "Learning & building",
-  openTo: [],
+  openTo: [Learn],
 };
 ```
 <br/>
