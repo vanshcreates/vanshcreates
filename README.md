@@ -18,8 +18,7 @@
 <br/>
 
 ## 👤 Who I Am
-
-```typescript
+'''
 interface Developer {
   title: string;
   stack: string[];
@@ -37,8 +36,7 @@ const vanshcreates: Developer = {
   status: "Learning & building",
   openTo: [],
 };
-```
-
+'''
 <br/>
 
 ## 🛠️ Tech Stack
