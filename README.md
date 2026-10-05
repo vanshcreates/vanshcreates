@@ -18,7 +18,7 @@
 <br/>
 
 ## 👤 Who I Am
-```
+```typescript
 const vanshcreates: Developer = {
   title: "Frontend Developer",
   stack: ["HTML", "CSS", "JavaScript", "React", "C++"],
