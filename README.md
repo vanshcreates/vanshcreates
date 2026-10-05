@@ -1,26 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=vanshcreates&fontSize=60&fontColor=0f172a&desc=Frontend%20Developer&descSize=22&descAlignY=60&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,100:16a34a&height=220&section=header&text=vanshcreates&fontSize=60&fontColor=bbf7d0&desc=Frontend%20Developer&descSize=22&descColor=bbf7d0&descAlignY=60&animation=twinkling" alt="header" width="100%" />
 
 <a href="https://github.com/vanshcreates">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7dd3fc&center=true&vCenter=true&width=520&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Also+writing+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=520&height=40&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Also+writing+C%2B%2B" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vanshcreates&color=7dd3fc&style=flat-square&label=Profile+Views" alt="Profile views" />
-<a href="https://github.com/vanshcreates?tab=followers">
-  <img src="https://img.shields.io/github/followers/vanshcreates?style=flat-square&color=7dd3fc&logo=github&labelColor=0f172a" alt="Followers" />
-</a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vanshcreates&color=16a34a&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/vanshcreates?tab=followers">
+    <img src="https://img.shields.io/github/followers/vanshcreates?style=flat-square&color=16a34a&logo=github&labelColor=04140c" alt="Followers" />
+  </a>
+</p>
 
 </div>
 
----
+<br/>
 
-## ðŸ‘¤ Who I Am
+## 👤 Who I Am
 
 ```typescript
-const vanshcreates = {
+interface Developer {
+  title: string;
+  stack: string[];
+  launchedProjects: string[];
+  certifications: string[];
+  status: string;
+  openTo: string[];
+}
+
+const vanshcreates: Developer = {
   title: "Frontend Developer",
   stack: ["HTML", "CSS", "JavaScript", "React", "C++"],
   launchedProjects: [],
@@ -30,53 +39,60 @@ const vanshcreates = {
 };
 ```
 
----
+<br/>
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp" alt="Languages" />
 
+<br/>
+
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
 
----
+</div>
 
-## ðŸ“Š GitHub Stats
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshcreates&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshcreates&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshcreates&show_icons=true&hide_border=false&bg_color=04140c&border_color=16a34a&title_color=22c55e&icon_color=16a34a&text_color=bbf7d0" alt="GitHub stats" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshcreates&layout=compact&bg_color=04140c&border_color=16a34a&title_color=22c55e&text_color=bbf7d0" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vanshcreates&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=vanshcreates&background=04140c&border=16a34a&stroke=16a34a&ring=16a34a&fire=22c55e&currStreakNum=bbf7d0&sideNums=bbf7d0&currStreakLabel=22c55e&sideLabels=22c55e&dates=86efac" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vanshcreates&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=vanshcreates&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshcreates&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshcreates&bg_color=04140c&color=22c55e&line=16a34a&point=bbf7d0&area=true&area_color=16a34a&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
----
+<br/>
 
-## ðŸ¤ Connect
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/vanshcreates">
-  <img src="https://img.shields.io/badge/GitHub-vanshcreates-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-vanshcreates-04140c?style=for-the-badge&logo=github&logoColor=22c55e" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:052e16&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
